@@ -39,6 +39,8 @@ To create a ticket, users must access the ticket portal and log in if required. 
 <br />
 <p>
 
+---
+
 __Assignment and Communication__: Once a ticket exists, it needs to be directed and clarified.
 - *Assignment*: The ticket is routed to the correct department or agent. This can be done automatically (via rules/filters) or manually by staff
 - *Prioritization*: Staff may adjust urgency/priority levels (e.g., low, normal, high, emergency)
@@ -52,6 +54,8 @@ Once a ticket is created, it is assigned to the appropriate department or agent,
   
 <img width="700" height="750" alt="image" src="https://github.com/user-attachments/assets/9540e080-e9a4-4b80-b08d-00e949f78aae" />
 
+---
+
 __Working the Issue__: This is the active problem-solving stage.
 - *Investigation*: Agents analyze the problem, replicate issues if needed, and look for solutions
 - *Collaboration*: The ticket may be transferred, escalated, or collaborated on with other teams
@@ -62,6 +66,8 @@ In the working stage, agents actively investigate the issue, collaborate with ot
 </p>
 <br />
 <p>
+
+---
   
 __Resolution__: The ticket reaches closure when the issue is handled.
 - *Solution Delivery*: The agent provides the resolution, instructions, or fix.
