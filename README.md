@@ -78,6 +78,15 @@ __Resolution__: The ticket reaches closure when the issue is handled.
 In the resolution stage, the agent delivers the fix or instructions and confirms the issue is resolved. The ticket is then closed, with optional follow-up actions like feedback surveys or reporting for performance metrics.
 <br />
 
+<h2>Summary</h2>
+
+- **Ticket Creation** – *User submits an issue via email, chat, or self-service portal*
+- **Categorization & Prioritization** – *The issue is assigned a priority level (Low, Medium, High, Critical)*
+- **Assignment to a Technician** – *A help desk professional works on the ticket*
+- **Troubleshooting & Resolution** – *The problem is diagnosed and fixed*
+- **Ticket Closure** – *Once resolved, the ticket is marked closed (with documentation if needed)*
+- **Follow-up & Feedback** – *User confirms resolution and may provide feedback*
+
 <h2>Closing Thoughts</h2>
 
 Ticket management protocols can vary across different work environments. Some teams may have quotas for resolving a set number of tickets within a given timeframe, while others prioritize tickets based on urgency or impact. By building osTicket from the ground up, I gained a clear understanding of how tickets are handled in an IT role.
